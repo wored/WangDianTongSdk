@@ -18,11 +18,11 @@ $config = [
         "level"      => "debug",
         "permission" => 777
     ],
-    "sid"       => "apidevnew2",
+    "sid"       => "******",
     "debug"     => false,
-    "appkey"    => "xiongbao2-test",
+    "appkey"    => "***************",
     "rootUrl"   => "https://sandbox.wangdian.cn",
-    "appsecret" => "123456789"
+    "appsecret" => "************"
 ];
 //旺店通SDK
 $wdt = new WangDianTongSdk($config);
