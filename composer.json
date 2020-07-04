@@ -1,0 +1,19 @@
+{
+  "name": "wored/wangdiantong-sdk",
+  "description": "旺店通接口SDK",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "qiliu",
+      "email": "qiliuf@gmail.com"
+    }
+  ],
+  "require": {
+    "hanson/foundation-sdk": "3.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "Wored\\WangDianTongSdk\\": "src"
+    }
+  }
+}
